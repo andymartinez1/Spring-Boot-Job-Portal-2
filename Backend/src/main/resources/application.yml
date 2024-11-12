@@ -1,7 +1,3 @@
 spring:
   application:
     name: "Job Portal"
-  mvc:
-    view:
-      prefix: "/views/"
-      suffix: ".jsp"
