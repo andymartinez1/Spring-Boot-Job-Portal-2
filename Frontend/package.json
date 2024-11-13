@@ -1,6 +1,6 @@
 {
   "name": "jobportal",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
@@ -12,7 +12,6 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.6.2",
     "jobportal": "file:",
-    "partone": "file:",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.21.0",
